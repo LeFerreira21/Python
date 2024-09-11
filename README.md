@@ -5,10 +5,15 @@ Tempo de Estacionamento:
 Se o tempo for menor ou igual a 15 minutos, informa que não é necessário pagar.
 
 Cálculo do Valor:
+
 Até 15 minutos: R$ 00,00 (cortesia)
+
 Até 60 minutos: R$ 09,00
+
 Até 180 minutos: R$ 12,00
+
 Até 300 minutos: R$ 15,00
+
 Acima de 300 minutos: R$ 17,00
 
 Forma de Pagamento:
