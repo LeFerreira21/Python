@@ -1,5 +1,4 @@
-# Python
-Programa de Pagamento de Estacionamento
+# Programa de Pagamento de Estacionamento em Python
 
 TEMPO DE ESTACIONAMENTO
 
